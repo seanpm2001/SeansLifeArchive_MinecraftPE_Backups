@@ -7,7 +7,7 @@ Contains data for the `Labmax` world.
 
 **By:** `seanpm2001`
 
-[Go to repository](https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_labmax/tree/main/Backups)
+[Go to repository](https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_labmax/)
 
 Preview:
 
@@ -29,9 +29,9 @@ Preview:
 
 File type: `Markdown (*.md)`
 
-File version: `1 (Wednesday, March 24th 2021 at 8:28 pm)`
+File version: `2 (Wednesday, March 24th 2021 at 8:30 pm)`
 
-Line count (including blank lines and compiler line): `73`
+Line count (including blank lines and compiler line): `85`
 
 ***
 
@@ -53,13 +53,25 @@ Version 1 (Wednesday, March 24th 2021 at 8:28 pm)
 
 > * No other changes in version 1
 
-Version 2 (Coming soon)
+Version 2 (Wednesday, March 24th 2021 at 8:30 pm)
+
+> Changes:
+
+> * Fixed repository link
+
+> * Updated the file info section
+
+> * Updatedd the file history section
+
+> * No other changes in version 2
+
+Version 3 (Coming soon)
 
 > Changes:
 
 > * Coming soon
 
-> * No other changes in version 2
+> * No other changes in version 3
 
 ***
 
